@@ -1,7 +1,7 @@
 # Airline Seat Reservation System - Group 24
 Done in partial fulfillment of the requirements of the In21-S3-CS3043 Database Systems module.
 
-<img src="/B_Airways/B_Airways - Homepage.jpg"/>
+<img src="/Screenshots/B_Airways - Homepage.jpg"/>
 
 ## Overview
 This project involved the design and implementation of a full-stack web-application integrated with a relational database to manage airline seat reservations on behalf of "B Airways", a fictional subsidiary of Virgin Airlines. 
@@ -14,9 +14,9 @@ In addition, the system featured an admin dashboard which allowed various analyt
 ## Database Design
 The database design is at the core of the project, following best practices to ensure data integrity, consistency, and performance. We used stored procedures, database triggers, and various other techniques to construct an optimized and normalized database for our application.
 <hr/>
-<img src="/B_Airways/B_Airways - FAQ.jpg"/>
+<img src="/Screenshots/B_Airways - FAQ.jpg"/>
 <hr/>
-<img src="/B_Airways/G24 - Copy Of ER.png"/>
+<img src="/Screenshots/G24 - Copy Of ER.png"/>
 
 ## Documentation
 The following are some documentation that were submitted for the project:
